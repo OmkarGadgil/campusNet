@@ -1,0 +1,20 @@
+Week 4 report
+In this week I have worked on other angular components such as the events, views and layout.
+I have added the form to create the user profile, made some UI changes to the homepage, added a rating page.
+Problems faced: for creating the user profiles I had to learn the angular elements and understand the export component functionality of the framework.
+
+references: 
+https://thinkster.io/tutorials/angularjs-jwt-auth
+
+https://docs.angularjs.org/tutorial
+
+https://www.w3schools.com/angular/
+
+https://getbootstrap.com/docs/3.3/components/
+
+https://www.npmjs.com/package/
+
+https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollIntoView
+
+
+

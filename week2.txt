@@ -1,0 +1,3 @@
+Week 2:- In this week I worked with the backend of the application. Creating the tables and their schema was the main focus of the week. Also, I created a REST API document which would be likely used in future development.
+Challenges faced: The main challenge in front of me was to visualize the final application and design the schema accordingly with all the dependencies linked to each other.
+Solution: With the help of the concepts of database from previous semester I tried to create a schema for the application. I used wireframes for this.

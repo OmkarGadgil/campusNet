@@ -1,0 +1,7 @@
+Project Report Weekly updates
+Week 1: - In this week I was working over the user interface and how would the design be developed. The aim here is to implement a responsive yet clean user interface so that the front end would be supported on various displays since it is a web application. I have designed a prototype of the landing page for the web app. The images used to understand the grid system is from a free images site as I could not use UMass Lowell web images because of the copyrights.
+
+Challenges faced: I intended to stick to the core of web page styling i.e CSS. However, I had to work with the CSS grid layout which is less intuitive and complex to code. Also, I was not getting the kind of responsive layout and design and it involved lot of coding and calculations for the display resolutions.
+
+
+Solution: Having some previous exposure to Bootstrap I decided to use it in the project. Bootstrap is the most popular and extensive library for responsive and intuitive design. The bootstrap grid system makes it way easier to implement the interface. The Navbar allows lot of customizable options with less coding compared to core CSS.

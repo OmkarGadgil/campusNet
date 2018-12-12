@@ -1,0 +1,11 @@
+In this week while testing i noticed i had error connecting with the database at Mlabs because of the changes made in the package.json file and the config file for the data base.
+
+The solution to it was changing the mongoid in the config file for the server connection and also updating the node module package.json for necessary changes.
+
+Forums like stack overflow and and the mongodb community help me resolve this specific issue.
+
+References
+
+https://stackoverflow.com/questions/53659511/error-in-error-metadata-version-mismatch-at-node-modules-ng2-smart-table-in?noredirect=1#comment94272278_53659511
+
+https://docs.mlab.com/connecting/

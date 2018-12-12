@@ -1,0 +1,18 @@
+IN this week i have worked on the REST API for getting the data and creating it.
+
+For this I had to use the POSTMAN service and also there were connection issuses which had to be resolved to get the data and post the data.
+package.json is the file for integraion of the services and all the dependencies for the app.js to execute.
+
+References
+
+https://thinkster.io/tutorials/angularjs-jwt-auth
+
+https://docs.angularjs.org/tutorial
+
+https://www.w3schools.com/angular/
+
+https://getbootstrap.com/docs/3.3/components/
+
+https://www.npmjs.com/package/
+
+https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollIntoView

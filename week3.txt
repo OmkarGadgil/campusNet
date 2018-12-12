@@ -1,0 +1,3 @@
+Week 3 Report
+In this week I continued with the initial stylesheet design and implemented the grid system in bootstrap. Also, I have started working on the main app.js file which will be the landing page.
+Problems faced: I had to learn some concepts of bootstrap and along with it the components of the react framework. For the components I had to debug the syntactical and semantic errors.

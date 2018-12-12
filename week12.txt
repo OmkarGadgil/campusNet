@@ -1,0 +1,17 @@
+In this last week i deployed the entire code along with the necessary API on heroku server.
+
+Heroku makes it easy for automatic update deployment because of its Git integration in the pipeline.
+
+During deployment for the server code i came across version issues for the angular framework and some libraries in the ng module.
+
+The solution was to update the angular cli, clear the npm cache and then redeploy the code on server.
+
+API code was pushed to a seperate repository for server.
+
+References
+
+https://docs.mlab.com/connecting/
+
+https://devcenter.heroku.com/articles/getting-started-with-nodejs#run-the-app-locally
+
+https://stackoverflow.com/questions/53659511/error-in-error-metadata-version-mismatch-at-node-modules-ng2-smart-table-in?noredirect=1#comment94272278_53659511
