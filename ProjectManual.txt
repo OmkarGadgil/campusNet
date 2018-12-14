@@ -1,0 +1,25 @@
+Project Manual 
+
+Required packages:
+1) node js
+2) angular cli
+
+Install instructions (packages)
+
+1) Install node by command npm install
+2) Install angular cli npm install -g @angular/cli
+
+
+Download campusNet and campusNetClient repositories.
+
+Setting up the server
+1) In terminal go to campusNet path
+2) run npm start
+3) server will be up and running on localhost 4200.
+
+
+Setting up the FrontEnd(Client)
+1)In the terminal navigate to campusNetClient
+2) Go into the client directory
+3) Run ng serve command.
+4) Open localhost:4200 in browser.
